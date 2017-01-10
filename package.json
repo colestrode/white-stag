@@ -1,0 +1,30 @@
+{
+  "name": "white-stag",
+  "version": "0.0.0",
+  "description": "This might not be possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard **.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colestrode/white-stag.git"
+  },
+  "author": "Cole Furfaro-Strode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colestrode/white-stag/issues"
+  },
+  "homepage": "https://github.com/colestrode/white-stag#readme",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.17.3",
+    "request": "^2.79.0",
+    "skellington-logger": "^1.0.0",
+    "ws": "^1.1.1"
+  }
+}

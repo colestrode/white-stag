@@ -1,0 +1,2 @@
+const stag = require('../index')
+
