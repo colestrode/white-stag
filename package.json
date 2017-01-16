@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/colestrode/white-stag#readme",
   "devDependencies": {
+    "nodemon": "^1.11.0",
     "standard": "^8.6.0"
   },
   "dependencies": {
